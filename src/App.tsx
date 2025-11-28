@@ -56,9 +56,9 @@ function App() {
                 alt="Genuine Power Systems"
                 className="h-14 w-auto"
               />
-              <div className="ml-3 hidden sm:block">
-                <h1 className="text-xl font-bold text-gray-900">Genuine Power Systems</h1>
-                <p className="text-xs text-gray-600">Powering Your Future</p>
+              <div className="ml-3">
+                <h1 className="text-lg sm:text-xl font-bold text-gray-900">Genuine Power Systems</h1>
+                <p className="text-xs text-gray-600 hidden sm:block">Powering Your Future</p>
               </div>
             </div>
 
