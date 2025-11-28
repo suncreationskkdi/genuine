@@ -128,13 +128,23 @@ function App() {
                         className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
-                        src="https://images.pexels.com/photos/159291/beer-machine-transport-technology-159291.jpeg?auto=compress&cs=tinysrgb&w=800"
-                        alt="UPS systems"
+                        src="https://images.pexels.com/photos/5876695/pexels-photo-5876695.jpeg?auto=compress&cs=tinysrgb&w=800"
+                        alt="UPS and power backup systems"
                         className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
                         src="https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="Battery solutions"
+                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                      />
+                      <img
+                        src="https://images.pexels.com/photos/430208/pexels-photo-430208.jpeg?auto=compress&cs=tinysrgb&w=800"
+                        alt="CCTV security cameras"
+                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                      />
+                      <img
+                        src="https://images.pexels.com/photos/2881229/pexels-photo-2881229.jpeg?auto=compress&cs=tinysrgb&w=800"
+                        alt="High-speed internet connectivity"
                         className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
@@ -143,13 +153,23 @@ function App() {
                         className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
-                        src="https://images.pexels.com/photos/159291/beer-machine-transport-technology-159291.jpeg?auto=compress&cs=tinysrgb&w=800"
-                        alt="UPS systems"
+                        src="https://images.pexels.com/photos/5876695/pexels-photo-5876695.jpeg?auto=compress&cs=tinysrgb&w=800"
+                        alt="UPS and power backup systems"
                         className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
                         src="https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="Battery solutions"
+                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                      />
+                      <img
+                        src="https://images.pexels.com/photos/430208/pexels-photo-430208.jpeg?auto=compress&cs=tinysrgb&w=800"
+                        alt="CCTV security cameras"
+                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                      />
+                      <img
+                        src="https://images.pexels.com/photos/2881229/pexels-photo-2881229.jpeg?auto=compress&cs=tinysrgb&w=800"
+                        alt="High-speed internet connectivity"
                         className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                     </div>
