@@ -119,10 +119,27 @@ function App() {
                 </div>
               </div>
               <div className="hidden md:block">
-                <div className="bg-white rounded-2xl shadow-2xl p-8">
-                  <Shield className="h-32 w-32 text-blue-600 mx-auto mb-6" />
-                  <h3 className="text-2xl font-bold text-center text-gray-900 mb-4">Trusted Since Years</h3>
-                  <p className="text-gray-600 text-center">Delivering quality products and exceptional service to residential and commercial clients across Madurai.</p>
+                <div className="grid grid-cols-2 gap-4">
+                  <img
+                    src="https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    alt="Power backup systems"
+                    className="rounded-xl shadow-lg w-full h-48 object-cover"
+                  />
+                  <img
+                    src="https://images.pexels.com/photos/371900/pexels-photo-371900.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    alt="Solar energy solutions"
+                    className="rounded-xl shadow-lg w-full h-48 object-cover"
+                  />
+                  <img
+                    src="https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    alt="CCTV security systems"
+                    className="rounded-xl shadow-lg w-full h-48 object-cover"
+                  />
+                  <img
+                    src="https://images.pexels.com/photos/159291/beer-machine-transport-technology-159291.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    alt="UPS and battery solutions"
+                    className="rounded-xl shadow-lg w-full h-48 object-cover"
+                  />
                 </div>
               </div>
             </div>
