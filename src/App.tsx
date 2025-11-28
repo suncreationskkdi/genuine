@@ -128,7 +128,7 @@ function App() {
                         className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
-                        src="https://images.pexels.com/photos/162539/architecture-building-amsterdam-blue-sky-162539.jpeg?auto=compress&cs=tinysrgb&w=800"
+                        src="https://images.pexels.com/photos/9875415/pexels-photo-9875415.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="UPS and power backup systems"
                         className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
@@ -153,7 +153,7 @@ function App() {
                         className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
-                        src="https://images.pexels.com/photos/162539/architecture-building-amsterdam-blue-sky-162539.jpeg?auto=compress&cs=tinysrgb&w=800"
+                        src="https://images.pexels.com/photos/9875415/pexels-photo-9875415.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="UPS and power backup systems"
                         className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
