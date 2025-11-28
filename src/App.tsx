@@ -118,59 +118,59 @@ function App() {
                   </a>
                 </div>
               </div>
-              <div className="hidden md:block relative">
-                <div className="overflow-hidden rounded-2xl bg-white/30 backdrop-blur-sm p-8 shadow-2xl h-[500px]">
+              <div className="relative">
+                <div className="overflow-hidden rounded-2xl bg-white/30 backdrop-blur-sm p-4 md:p-8 shadow-2xl h-[300px] md:h-[500px]">
                   <div className="animate-scroll">
-                    <div className="flex flex-col space-y-6">
+                    <div className="flex flex-col space-y-4 md:space-y-6">
                       <img
                         src="https://images.pexels.com/photos/371900/pexels-photo-371900.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="Solar energy solutions"
-                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                        className="rounded-xl w-full h-48 md:h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
                         src="https://images.pexels.com/photos/9875415/pexels-photo-9875415.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="UPS and power backup systems"
-                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                        className="rounded-xl w-full h-48 md:h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
                         src="https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="Battery solutions"
-                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                        className="rounded-xl w-full h-48 md:h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
                         src="https://images.pexels.com/photos/430208/pexels-photo-430208.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="CCTV security cameras"
-                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                        className="rounded-xl w-full h-48 md:h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
                         src="https://images.pexels.com/photos/2881229/pexels-photo-2881229.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="High-speed internet connectivity"
-                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                        className="rounded-xl w-full h-48 md:h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
                         src="https://images.pexels.com/photos/371900/pexels-photo-371900.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="Solar energy solutions"
-                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                        className="rounded-xl w-full h-48 md:h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
                         src="https://images.pexels.com/photos/9875415/pexels-photo-9875415.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="UPS and power backup systems"
-                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                        className="rounded-xl w-full h-48 md:h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
                         src="https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="Battery solutions"
-                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                        className="rounded-xl w-full h-48 md:h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
                         src="https://images.pexels.com/photos/430208/pexels-photo-430208.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="CCTV security cameras"
-                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                        className="rounded-xl w-full h-48 md:h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                       <img
                         src="https://images.pexels.com/photos/2881229/pexels-photo-2881229.jpeg?auto=compress&cs=tinysrgb&w=800"
                         alt="High-speed internet connectivity"
-                        className="rounded-xl w-full h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
+                        className="rounded-xl w-full h-48 md:h-64 object-cover opacity-90 hover:opacity-100 transition-opacity"
                       />
                     </div>
                   </div>
